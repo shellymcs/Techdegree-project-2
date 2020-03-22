@@ -88,7 +88,7 @@ img {
 
 
 .main-nav a:hover {
-	color: white;
+	color: blue;
 }
 
 .main-footer{
@@ -240,6 +240,9 @@ img {
   display: inline-block;
   
 }
+.main-nav a:hover {
+	color: white;
+}
 
 .main-nav a {
 	font-size: .95em;
@@ -379,6 +382,9 @@ text-align: center;
   float:right;
 }
 
+.main-nav a:hover {
+	color: white;
+}
 .banner{
 	clear: none;
 	width: 100%;
