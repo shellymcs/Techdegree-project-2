@@ -56,6 +56,7 @@ img {
 .container {
 	text-align: center;
 	margin: 0 auto;
+	max-width: 1150px;
 	
 }
 
@@ -152,7 +153,8 @@ img {
 	padding-right: 1em;
   padding-left:1em;
   padding-top: 50px;
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
   text-align: center;
 
 }
@@ -216,7 +218,7 @@ img {
 @media (min-width: 768px){
 
 .container {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -298,31 +300,31 @@ display: block;
 }
 
 .search {
-  width: 45%;
+  width: 50%;
 }
 
 .marketing {
-  width: 45%;
+  width: 50%;
 }
 
 .travel {
-  width: 45%;
+  width: 50%;
 }
 
 .map{
-	width: 45%;
+	width: 50%;
 }
 
 .gallery {
-	width: 45%;
+	width: 50%;
 
 }
 .calculator {
-	width: 45%;
+	width: 50%;
 }  
 
 #skills {
-	width:45%; 
+	width:50%; 
 	box-sizing: unset;
 	margin: 0 auto;
 }
