@@ -377,7 +377,7 @@ display: block;
 
 
 .name {
-  width:240px;
+  width:unset;
   font-size: 1.3em;
   float:left;
   
@@ -437,32 +437,12 @@ margin-right: 10px;
 	float:left;
     padding: 20px;
     text-align: center;
-    display: block;
+	display: block;
+	width:33.333%;
   }
   
-  .search {
-	width: 30%;
-  }
   
-  .marketing {
-	width: 30%;
-  }
-  
-  .travel {
-	width: 30%;
-  }
-  
-  .map{
-	  width: 30%;
-  }
-  
-  .gallery {
-	  width: 30%;
-  
-  }
-  .calculator {
-	  width: 30%;
-  }  
+ 
 
   #skills{
 	  width: 30%;
